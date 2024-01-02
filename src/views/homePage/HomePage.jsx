@@ -57,7 +57,7 @@ const HomePage = () => {
         <Typography 
           variant='subtitle2'>
           Demonstration of individual UI components&nbsp;
-          <Link href="https://mui.com/" target="_blank" rel="noopener noreferrer">
+          <Link href="https://fajig-demo.netlify.app/" target="_blank" rel="noopener noreferrer">
             Site Demo
           </Link>
         </Typography>
